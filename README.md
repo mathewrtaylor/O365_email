@@ -14,8 +14,8 @@ _  * Where **emailto** is your intended recipient
   * **emailbody** is the body of the email
   * **emailfrom** is the email that it's being sent from.  Note that this account must be authorized.
   * **emailcc** is the CC email address_
-* On first usage, the script will give you a URL to paste into a browser.  It will change the URL, and you must copy this back into the script for it to work.  You will get a success message.
-![unnamed](https://user-images.githubusercontent.com/76273795/151882231-3aa44b35-cce0-4ec7-b709-881d79339437.png)
+* On first usage, the script will give you a URL to paste into a browser.  It will change the URL, and you must copy this back into the script for it to work.  You will get a success message.<br>
+![unnamed](https://user-images.githubusercontent.com/76273795/151882231-3aa44b35-cce0-4ec7-b709-881d79339437.png)<br>
 
 
 ## Credits
