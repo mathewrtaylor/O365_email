@@ -2,8 +2,8 @@
 A functional demo of the O365 Module to send an email on an authenticated, tokenized account.
 
 ## Prep
-* Create an app in Azure Developer's portal (*to do* create visual steps)
-* Create Secret, and copy tennant, client and secret (*to do* create visual steps)
+* Create an app in Azure Developer's portal (_Included in Setup_)
+* Create Secret, and copy tennant, client and secret (_Included in Setup_)
 * Load the python script, with dotenv, O365
 
 ## Setup
