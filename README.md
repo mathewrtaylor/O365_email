@@ -17,6 +17,7 @@ A functional demo of the O365 Module to send an email on an authenticated, token
 ![2022-02-01 10_26_29-Window](https://user-images.githubusercontent.com/76273795/151998316-e7004bbf-63b7-4a6e-b9ec-b3c66511c427.png)<br>
 * On first usage, the script will give you a URL to paste into a browser.  It will change the URL, and you must copy this back into the script for it to work.  You will get a success message.<br>
 ![unnamed](https://user-images.githubusercontent.com/76273795/151882231-3aa44b35-cce0-4ec7-b709-881d79339437.png)<br>
+* Full instructions are also found at: https://github.com/O365/python-o365#readme <br>
 
 ## Usage
 * Can be imported or copied into your own scripts
